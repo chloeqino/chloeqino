@@ -20,4 +20,4 @@ I am Qinyu Chen, an aspiring Frontend developer
 💻 Technologies I am using: Javascript, CSS, HTML, React<br>
 💜 Visual Art, Traveling, Fantasy Novel, Foods<br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeqino)](https://github.com/chloeqino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeqino&layout=compact)](https://github.com/chloeqino/github-readme-stats)
