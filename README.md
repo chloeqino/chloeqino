@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Qinyu Chen, an aspiring Frontend developer
+\\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeqino)](https://github.com/chloeqino/github-readme-stats)
